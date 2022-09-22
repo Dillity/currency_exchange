@@ -1,0 +1,11 @@
+.mainContainer {
+    background-color: black;
+}
+
+.container {
+    padding: 20px;
+}
+
+.item:hover {
+    color: wheat;
+}
